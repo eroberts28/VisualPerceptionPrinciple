@@ -16,6 +16,8 @@ Another famous example of closure within design is the FedEx logo. When you look
 
 ![download](https://cloud.githubusercontent.com/assets/22593770/20690307/bcb2effa-b5c1-11e6-8462-71101b2da29d.png)
 
+### Here is a video explaining what it is: https://www.youtube.com/watch?v=9YEFRiXZzV4&t=28s
+
 
 ## Symmetry
 
@@ -26,3 +28,5 @@ Symmetry gives us a feeling of solidity and order, which we tend to seek. It’s
 
 In the image above, you should see three pairs of opening and closing brackets. The principle of proximity, which we’ll get to later in this post, might suggest we should see something else. That suggests symmetry takes precedence over proximity.
 Since our eyes will quickly find symmetry and order, these principles can be used to effectively communicate information quickly.
+
+### Here is a video explaining what it is: https://www.youtube.com/watch?v=dmzlHGyksas&t=16s
